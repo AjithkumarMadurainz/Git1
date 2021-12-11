@@ -11,6 +11,9 @@ public class Git1 {
 	}
 	public void sub() {
 		System.out.println("SUb");
+	}
+	public void mul() {
+		System.out.println("Multiple");
 
 	}
 }
