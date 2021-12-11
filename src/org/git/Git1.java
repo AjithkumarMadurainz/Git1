@@ -9,6 +9,9 @@ public class Git1 {
 		Git1 g =new Git1();
 		g.add();
 	}
+	public void sub() {
+		System.out.println("SUb");
+	}
 	public void mul() {
 		System.out.println("Multiple");
 
